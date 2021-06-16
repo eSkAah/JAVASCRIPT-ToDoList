@@ -1,0 +1,59 @@
+.h1 {
+    text-align: center;
+    font-family: cursive;
+}
+
+#myBody {
+    background-color: rgb(98, 96, 209);
+    font-family: 'Bangers', cursive;
+}
+
+.enterTaskArea {
+text-align: center;
+border: solid 3px ;
+border-radius: 50px;
+background-color: rgb(32, 32, 126);
+color : rgb(17, 250, 5);
+opacity: 0.90;
+}
+
+.victory img  {
+    height: 400px;
+    justify-content: space-between;
+    text-align:center;
+}
+
+input {
+    transition: 1s;
+}
+
+.leftBox {
+    height: 900px;
+    
+}
+
+.rightBox {
+    height: 900px;
+    
+}
+
+
+.zoneTache {
+   text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+.taskList input {
+    width: 90%;
+    transition: 2s;
+}
+
+
+.listItem {
+    text-align: center;
+}
+
